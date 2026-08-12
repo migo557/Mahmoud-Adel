@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Editor & Subtitle Generator",
+  "description": "AI-powered video editor with automated subtitle generation, long-form content summarization, viral clip extraction, and Veo photo-to-video animation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
